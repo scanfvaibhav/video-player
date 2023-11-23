@@ -1,0 +1,31 @@
+
+
+progress {
+  width: 0;
+  min-width: 100%;
+}
+.player {
+  width:700px
+}
+
+span.timestamp {
+  margin-top: 3px;
+  position: absolute;
+  text-align: center;
+  font-size: 12px;
+}
+span.timestamp1 {
+  left: 25%; 
+}
+span.timestamp2 {
+  left: 50%;  
+}
+span.timestamp3 {
+  left: 75%;  
+}
+span.timestamp4 {
+  left: 100%; 
+}
+span.text {
+  margin-top: 10px;
+}
